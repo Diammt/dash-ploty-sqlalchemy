@@ -1,0 +1,11 @@
+dash
+ldap3
+flask
+flask-login
+python-dotenv
+SQLAlchemy==1.4.36
+flask-sqlalchemy==2.5.1
+sqlalchemy_serializer==1.4.1
+flask_authorize==0.2.6
+pymysql==1.0.2
+dash_bootstrap_components==1.1.0
